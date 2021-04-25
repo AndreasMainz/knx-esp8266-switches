@@ -14,7 +14,8 @@ Taster3 attached to gpio14   // D5
 
 Taster4 attached to gpio4    // D2
 
-Each Taster is in "UM" Mode, if the last value ws "0" next activation will send "1" and visa versa
+Each Taster is in "UM" Mode, if the last value was "0" next activation will send "1" and visa versa
+
 The groupadress will be send out with release edge of switch.
 The time between rising and falling edge is measured.
 If the two events happen inbetween 600ms a short activation is detected, also sending on the ga's for short activation
