@@ -5,9 +5,13 @@ https://www.konnekting.de/
 and MicroBcu2 here: https://gitlab.com/knx-makerstuff/knx_microbcu2
 
 HW setup:  swaped Serial -> Serial2  on D7(GPIO13)=RX   GPIO15(D8)=TX 19200 baud -> standard for this lib
+
 Taster1 attached to gpio5    // D1
+
 Taster2 attached to gpio12   // D6
+
 Taster3 attached to gpio14   // D5
+
 Taster4 attached to gpio4    // D2
 
 Each Taster is in "UM" Mode, if the last value ws "0" next activation will send "1" and visa versa
