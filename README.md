@@ -23,5 +23,5 @@ If the two events differ more than 600ms a long activation is detected, also sen
 The switch is listening to Input GA's in order to register external commands at the own Send GA's.
 Internal state will be corrected to value of external GA's.
 
-A Pcb is also available, alsready under test, coming soon.
+A Pcb is also available, already under test, coming soon.
 
