@@ -28,4 +28,5 @@ A Pcb is also available, already under test, coming soon.
 
 # shutter Control:
 Left Switch above: Open Shutter     Right switch: Stop shutter
+
 Left Switch below: Close Shutter    Right switch: Toggle Automatik (on/off)
